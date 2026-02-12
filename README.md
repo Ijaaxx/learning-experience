@@ -183,4 +183,4 @@ This repository documents my journey through the **DBS Foundation Coding Camp 20
 * **Goal:** Pass all technical classes and soft skills on time!
 
 ---
-*Note: This document will be updated weekly as I progress through the program.*
+
