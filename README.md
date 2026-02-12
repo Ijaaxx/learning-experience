@@ -4,7 +4,7 @@ A centralized repository documenting my learning journey, projects, and coursewo
 (INDONESIA)
 # My Learning Journey: DBS Coding Camp 2026 🚀
 
-Repositori ini adalah dokumentasi perjalanan saya mengikuti **DBS Foundation Coding Camp 2026** di alur belajar **AI Engineer**. Di sini saya menyimpan catatan, potongan kode, dan progres belajar mingguan.
+Repositori ini adalah dokumentasi perjalanan saya mengikuti **DBS Foundation Coding Camp 2026** di alur belajar **AI Engineer**. Di sini saya menyimpan catatan, dan progres belajar mingguan.
 
 ## 📅 Timeline & Progress
 
@@ -95,7 +95,7 @@ Repositori ini adalah dokumentasi perjalanan saya mengikuti **DBS Foundation Cod
 (ENGLISH)
 # My Learning Journey: DBS Coding Camp 2026 🚀
 
-This repository documents my journey through the **DBS Foundation Coding Camp 2026** (AI Engineer track). I'll be using this space to keep my notes, code snippets, and track my weekly progress.
+This repository documents my journey through the **DBS Foundation Coding Camp 2026** (AI Engineer track). I'll be using this space to keep my notes, and track my weekly progress.
 
 ## 📅 Timeline & Progress
 
